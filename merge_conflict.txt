@@ -1,1 +1,3 @@
-my partner is kimJiSoo 
+<<<<<<< HEAD
+my partner is sunghyun 
+>>>>>>> seockju
